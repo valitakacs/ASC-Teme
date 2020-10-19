@@ -1,0 +1,13 @@
+C:\Users\Vali\source\repos\Moore's Law\bin\Debug\netcoreapp3.1\Moore's Law.exe
+C:\Users\Vali\source\repos\Moore's Law\bin\Debug\netcoreapp3.1\Moore's Law.deps.json
+C:\Users\Vali\source\repos\Moore's Law\bin\Debug\netcoreapp3.1\Moore's Law.runtimeconfig.json
+C:\Users\Vali\source\repos\Moore's Law\bin\Debug\netcoreapp3.1\Moore's Law.runtimeconfig.dev.json
+C:\Users\Vali\source\repos\Moore's Law\bin\Debug\netcoreapp3.1\Moore's Law.dll
+C:\Users\Vali\source\repos\Moore's Law\bin\Debug\netcoreapp3.1\Moore's Law.pdb
+C:\Users\Vali\source\repos\Moore's Law\obj\Debug\netcoreapp3.1\Moore's Law.csprojAssemblyReference.cache
+C:\Users\Vali\source\repos\Moore's Law\obj\Debug\netcoreapp3.1\Moore's Law.AssemblyInfoInputs.cache
+C:\Users\Vali\source\repos\Moore's Law\obj\Debug\netcoreapp3.1\Moore's Law.AssemblyInfo.cs
+C:\Users\Vali\source\repos\Moore's Law\obj\Debug\netcoreapp3.1\Moore's Law.csproj.CoreCompileInputs.cache
+C:\Users\Vali\source\repos\Moore's Law\obj\Debug\netcoreapp3.1\Moore's Law.dll
+C:\Users\Vali\source\repos\Moore's Law\obj\Debug\netcoreapp3.1\Moore's Law.pdb
+C:\Users\Vali\source\repos\Moore's Law\obj\Debug\netcoreapp3.1\Moore's Law.genruntimeconfig.cache
